@@ -1,0 +1,6 @@
+{
+  "name": "SplitMint",
+  "description": "Group trip expense tracker with equal or custom splits, category tags, live per-person balances, and fewest-payment debt settlement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
